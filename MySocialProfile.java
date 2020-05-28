@@ -1,8 +1,6 @@
 
 /**
  @author 	Adham Khalifa
- *			Alejandro Garibo
- * 			Gabe Crane
  * 5/13/20
  * COM212
  * Final Project - MySocialProfile Class
