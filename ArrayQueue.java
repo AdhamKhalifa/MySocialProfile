@@ -1,7 +1,5 @@
 /**
  * @author 	Adham Khalifa
- *			Alejandro Garibo
- * 			Gabe Crane 
  	COM212 Final Project
  * Submitted on 05/13/2020
  */
