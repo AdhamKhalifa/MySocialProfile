@@ -1,6 +1,4 @@
 @author:Adham Khalifa
-	Alejandro Garibo
-  	Gabe Crane 
 
 -This is a basic social profile.
 -It allows you to:
