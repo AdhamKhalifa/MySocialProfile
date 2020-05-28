@@ -1,0 +1,7 @@
+Adham Khalifa
+akhalifae@conncoll.edu
+Password
+2023
+"05 20 2020 15 00 Event1","06 20 2020 15 00 Event2","08 20 2020 15 00 Event3",
+"Post1","Post2","Post3",
+"Friend1","Friend2","Friend3",
