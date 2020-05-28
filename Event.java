@@ -2,8 +2,6 @@
 
 /**
  *  @author Adham Khalifa
- *			Alejandro Garibo
- * 			Gabe Crane
 
  Implementation of an Event object class 
  * @param <E>
