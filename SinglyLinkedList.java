@@ -2,8 +2,6 @@
 
 /**
  *  @author Adham Khalifa
- *			Alejandro Garibo
- * 			Gabe Crane
 
  Implementation of Singly linked list 
  * - Inserting a element in the list - This can be at beginning, at end or at a given position. 
